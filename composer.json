@@ -1,0 +1,17 @@
+{
+    "name": "masoud4/templating-playground",
+    "description": "A playground for native PHP templating with global helper functions.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
