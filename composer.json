@@ -1,5 +1,5 @@
 {
-    "name": "masoud4/templating-playground",
+    "name": "masoud4/tpl-helper",
     "description": "A playground for native PHP templating with global helper functions.",
     "type": "project",
     "license": "MIT",
